@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 19ace234c3f597340a426b7d462baeb3
+timeCreated: 1505221102
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dungeon_upscale_0
+    21300002: dungeon_upscale_1
+    21300004: dungeon_upscale_2
+    21300006: dungeon_upscale_3
+    21300008: dungeon_upscale_4
+    21300010: dungeon_upscale_5
+    21300012: dungeon_upscale_6
+    21300014: dungeon_upscale_7
+    21300016: dungeon_upscale_8
+    21300018: dungeon_upscale_9
+    21300020: dungeon_upscale_10
+    21300022: dungeon_upscale_11
+    21300024: dungeon_upscale_12
+    21300026: dungeon_upscale_13
+    21300028: dungeon_upscale_14
+    21300030: dungeon_upscale_15
+    21300032: dungeon_upscale_16
+    21300034: dungeon_upscale_17
+    21300036: dungeon_upscale_18
+    21300038: dungeon_upscale_19
+    21300040: dungeon_upscale_20
+    21300042: dungeon_upscale_21
+    21300044: dungeon_upscale_22
+    21300046: dungeon_upscale_23
+    21300048: dungeon_upscale_24
+    21300050: dungeon_upscale_25
+    21300052: dungeon_upscale_26
+    21300054: dungeon_upscale_27
+    21300056: dungeon_upscale_28
+    21300058: dungeon_upscale_29
+    21300060: dungeon_upscale_30
+    21300062: dungeon_upscale_31
+    21300064: dungeon_upscale_32
+    21300066: dungeon_upscale_33
+    21300068: dungeon_upscale_34
+    21300070: dungeon_upscale_35
+    21300072: dungeon_upscale_36
+    21300074: dungeon_upscale_37
+    21300076: dungeon_upscale_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon_upscale_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3036
+        width: 512
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2557
+        width: 512
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2224
+        width: 512
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1841
+        width: 416
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2044
+        width: 31
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1788
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1788
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1580
+        width: 147
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1580
+        width: 147
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1325
+        width: 147
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1232
+        width: 75
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1176
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1160
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1064
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1057
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1064
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1052
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 936
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 908
+        width: 115
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 892
+        width: 167
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 777
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 796
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 817
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_23
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 784
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 684
+        width: 206
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 544
+        width: 103
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 516
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 516
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 520
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 385
+        width: 167
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 285
+        width: 116
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 285
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 189
+        width: 103
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 296
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 152
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 220
+        width: 116
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 128
+        width: 116
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dungeon_upscale_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 40
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
